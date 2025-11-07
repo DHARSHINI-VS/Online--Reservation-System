@@ -15,9 +15,9 @@ It’s a simple **Online Reservation System** that allows users to book and mana
 ---
 
 ## 🛠️ Technologies Used
-- **Language:** Java / Python (mention whichever you used)
-- **IDE:** Visual Studio Code / IntelliJ / Eclipse
-- **Database:** MySQL / SQLite (if applicable)
+- **Language:** Java 
+- **IDE:** Visual Studio Code 
+- **Database:** MySQL 
 
 ---
 
