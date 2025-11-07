@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🧾 Online Reservation System
 
-<!--
-**DHARSHINI-VS/DHARSHINI-VS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This project was developed as part of the **Oasis Infobyte Internship**.  
+It’s a simple **Online Reservation System** that allows users to book and manage reservations efficiently.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Features
+- User registration and login
+- Booking and cancellation of tickets
+- Display of reservation details
+- Validation for user inputs
+- Simple and clean UI
+
+---
+
+## 🛠️ Technologies Used
+- **Language:** Java / Python (mention whichever you used)
+- **IDE:** Visual Studio Code / IntelliJ / Eclipse
+- **Database:** MySQL / SQLite (if applicable)
+
+---
+
+## 📂 Project Structures
